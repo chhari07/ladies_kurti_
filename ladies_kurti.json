@@ -1,83 +1,92 @@
 [
   {
     "id": 1,
-    "name": "Floral Printed Cotton Kurti",
-    "price": "₹899",
-    "imageSrc": "https://i.pinimg.com/1200x/3a/fa/8c/3afa8c844198a92a63b67ca02540a1f1.jpg",
-    "imageAlt": "Floral cotton kurti with pink and white design",
-    "description": "Elegant floral print cotton kurti perfect for summer wear."
+    "name": "Floral Print Anarkali Kurti",
+    "price": 899,
+    "size": ["S", "M", "L", "XL"],
+    "color": "Peach",
+    "image": "https://i.pinimg.com/564x/1f/2e/63/1f2e6303d9b0f4f8b2bfc82091d4ff21.jpg",
+    "description": "Elegant floral printed Anarkali kurti with flared hemline and round neck."
   },
   {
     "id": 2,
-    "name": "Anarkali Long Kurti",
-    "price": "₹1,299",
-    "imageSrc": "https://i.pinimg.com/736x/c8/15/ff/c815ff7b01aef3d36f7bb444fdff6890.jpg",
-    "imageAlt": "Anarkali long kurti in pastel colors",
-    "description": "Graceful long Anarkali kurti with intricate embroidery work."
+    "name": "Rayon Straight Kurti",
+    "price": 749,
+    "size": ["M", "L", "XL"],
+    "color": "Maroon",
+    "image": "https://i.pinimg.com/564x/6e/f7/56/6ef756fa1f80c6a1e94b66f2e60ef0b2.jpg",
+    "description": "Soft rayon straight-fit kurti ideal for casual and office wear."
   },
   {
     "id": 3,
-    "name": "Straight Fit Handloom Kurti",
-    "price": "₹1,099",
-    "imageSrc": "https://i.pinimg.com/736x/e9/5f/77/e95f7730a9a86f20c7cc8a32a2bc1058.jpg",
-    "imageAlt": "Handloom straight fit kurti in beige and maroon",
-    "description": "Handloom cotton straight kurti for a classic ethnic look."
+    "name": "Cotton Embroidered Kurti",
+    "price": 999,
+    "size": ["S", "M", "L"],
+    "color": "White",
+    "image": "https://i.pinimg.com/564x/2c/1a/8f/2c1a8fd094a5a423a11a0d7511c6ed35.jpg",
+    "description": "White embroidered cotton kurti with thread detailing on the neckline."
   },
   {
     "id": 4,
-    "name": "Silk Partywear Kurti",
-    "price": "₹1,799",
-    "imageSrc": "https://i.pinimg.com/736x/29/54/44/2954443cbf6c748e38c338ad4efcbb0b.jpg",
-    "imageAlt": "Silk kurti with heavy embroidery work",
-    "description": "Rich silk fabric kurti designed for festive and party occasions."
+    "name": "Geometric Print Kurti",
+    "price": 899,
+    "size": ["S", "M", "L", "XL"],
+    "color": "Navy Blue",
+    "image": "https://i.pinimg.com/564x/89/37/20/893720e071ca8994b3c803d59c539b76.jpg",
+    "description": "Trendy geometric printed kurti with front button design."
   },
   {
     "id": 5,
-    "name": "Printed Rayon Kurti",
-    "price": "₹749",
-    "imageSrc": "https://i.pinimg.com/1200x/1c/d9/fd/1cd9fd20dda5b88b04ea26b764ef3553.jpg",
-    "imageAlt": "Rayon kurti with printed design",
-    "description": "Soft rayon printed kurti with round neck and 3/4 sleeves."
+    "name": "Silk Festive Kurti",
+    "price": 1299,
+    "size": ["M", "L", "XL"],
+    "color": "Royal Blue",
+    "image": "https://i.pinimg.com/564x/b3/8e/42/b38e427e1d46b89e3e1ce227e6f78710.jpg",
+    "description": "Rich silk kurti perfect for festive occasions and celebrations."
   },
   {
     "id": 6,
-    "name": "Embroidered Festive Kurti",
-    "price": "₹1,499",
-    "imageSrc": "https://i.pinimg.com/736x/7e/19/55/7e1955cdbb4448ecb586bb14c1d5d69d.jp",
-    "imageAlt": "Embroidered festive wear kurti in navy blue",
-    "description": "Festive special embroidered kurti made with premium cotton silk."
+    "name": "Block Print Cotton Kurti",
+    "price": 799,
+    "size": ["S", "M", "L"],
+    "color": "Mustard",
+    "image": "https://i.pinimg.com/564x/28/31/4f/28314f8df1237d08b82e843c7723b7b1.jpg",
+    "description": "Hand block-printed cotton kurti for a traditional and comfortable look."
   },
   {
     "id": 7,
-    "name": "Chikankari Cotton Kurti",
-    "price": "₹1,299",
-    "imageSrc": "https://i.pinimg.com/736x/2b/8c/86/2b8c86e5d5ca80a63dc576f973c90fa7.jpg",
-    "imageAlt": "White chikankari cotton kurti",
-    "description": "Elegant white chikankari embroidered cotton kurti for daily wear."
+    "name": "High-Low Hem Kurti",
+    "price": 849,
+    "size": ["M", "L"],
+    "color": "Green",
+    "image": "https://i.pinimg.com/564x/ed/bd/70/edbd70837a3029ed1f15e2f5b95a5b72.jpg",
+    "description": "Trendy high-low hemline kurti with side tassels and V-neck."
   },
   {
     "id": 8,
-    "name": "High-Low Hem Kurti",
-    "price": "₹899",
-    "imageSrc": "https://i.pinimg.com/736x/ea/66/9d/ea669d5b8049567b243ad0c9637a2135.jpg",
-    "imageAlt": "Trendy high-low hem kurti in blue",
-    "description": "Modern high-low kurti with printed pattern and comfortable fit."
+    "name": "Printed Cotton Kurti with Pockets",
+    "price": 899,
+    "size": ["S", "M", "L", "XL"],
+    "color": "Yellow",
+    "image": "https://i.pinimg.com/564x/61/9e/2f/619e2f74b2ec089b9f2de71a59a6c16a.jpg",
+    "description": "Bright cotton kurti featuring side pockets and subtle prints."
   },
   {
     "id": 9,
-    "name": "Denim Casual Kurti",
-    "price": "₹999",
-    "imageSrc": "https://i.pinimg.com/736x/cf/aa/23/cfaa2370e6a477d227dbea0ad2d0003d.jpg",
-    "imageAlt": "Denim kurti with button-down style",
-    "description": "Casual denim kurti for everyday stylish comfort."
+    "name": "Chikankari Work Kurti",
+    "price": 1399,
+    "size": ["M", "L", "XL"],
+    "color": "Baby Pink",
+    "image": "https://i.pinimg.com/564x/b4/9c/a5/b49ca5b017a37796bbac8147e2cb9328.jpg",
+    "description": "Elegant Lucknowi chikankari work kurti with fine embroidery."
   },
   {
     "id": 10,
-    "name": "Kalamkari Print Kurti",
-    "price": "₹1,099",
-    "imageSrc": "https://i.pinimg.com/736x/fa/65/b2/fa65b252209fa6396c6d7e638f4c772e.jpg",
-    "imageAlt": "Kalamkari printed cotton kurti",
-    "description": "Traditional kalamkari print kurti inspired by Indian art."
-  },
-
+    "name": "Angrakha Style Kurti",
+    "price": 1199,
+    "size": ["S", "M", "L"],
+    "color": "Teal",
+    "image": "https://i.pinimg.com/564x/4f/64/34/4f6434ab81e6d253c6e3e34d4bb8d8d4.jpg",
+    "description": "Stylish Angrakha design kurti with tie-up dori and mirror work."
+  }
 ]
