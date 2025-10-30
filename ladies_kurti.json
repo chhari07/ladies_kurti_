@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Floral Printed Cotton Kurti",
     "price": "₹899",
-    "imageSrc": "https://i.pinimg.com/736x/f7/25/21/f72521f3b53e9c46cf0645b0f9daeecc.jpg",
+    "imageSrc": "https://i.pinimg.com/1200x/3a/fa/8c/3afa8c844198a92a63b67ca02540a1f1.jpg",
     "imageAlt": "Floral cotton kurti with pink and white design",
     "description": "Elegant floral print cotton kurti perfect for summer wear."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Anarkali Long Kurti",
     "price": "₹1,299",
-    "imageSrc": "https://i.pinimg.com/736x/58/0b/8c/580b8c38b301f25c37fa49e5a3c9640b.jpg",
+    "imageSrc": "https://i.pinimg.com/736x/c8/15/ff/c815ff7b01aef3d36f7bb444fdff6890.jpg",
     "imageAlt": "Anarkali long kurti in pastel colors",
     "description": "Graceful long Anarkali kurti with intricate embroidery work."
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Straight Fit Handloom Kurti",
     "price": "₹1,099",
-    "imageSrc": "https://i.pinimg.com/736x/17/2b/5d/172b5d8f184c4f40b68ff4525c2a1f83.jpg",
+    "imageSrc": "https://i.pinimg.com/736x/e9/5f/77/e95f7730a9a86f20c7cc8a32a2bc1058.jpg",
     "imageAlt": "Handloom straight fit kurti in beige and maroon",
     "description": "Handloom cotton straight kurti for a classic ethnic look."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Printed Rayon Kurti",
     "price": "₹749",
-    "imageSrc": "https://i.pinimg.com/736x/8a/59/8a/8a598a742e15a9b6a82d18e03ff5c9a1.jpg",
+    "imageSrc": "https://i.pinimg.com/1200x/1c/d9/fd/1cd9fd20dda5b88b04ea26b764ef3553.jpg",
     "imageAlt": "Rayon kurti with printed design",
     "description": "Soft rayon printed kurti with round neck and 3/4 sleeves."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Embroidered Festive Kurti",
     "price": "₹1,499",
-    "imageSrc": "https://i.pinimg.com/736x/7e/19/55/7e1955cdbb4448ecb586bb14c1d5d69d.jpg",
+    "imageSrc": "https://i.pinimg.com/736x/7e/19/55/7e1955cdbb4448ecb586bb14c1d5d69d.jp",
     "imageAlt": "Embroidered festive wear kurti in navy blue",
     "description": "Festive special embroidered kurti made with premium cotton silk."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Chikankari Cotton Kurti",
     "price": "₹1,299",
-    "imageSrc": "https://i.pinimg.com/736x/30/d4/9a/30d49a22ceeb7c66c972ee61501ee841.jpg",
+    "imageSrc": "https://i.pinimg.com/736x/2b/8c/86/2b8c86e5d5ca80a63dc576f973c90fa7.jpg",
     "imageAlt": "White chikankari cotton kurti",
     "description": "Elegant white chikankari embroidered cotton kurti for daily wear."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "High-Low Hem Kurti",
     "price": "₹899",
-    "imageSrc": "https://i.pinimg.com/736x/f9/a0/9e/f9a09e89b50f0a42d5794a17f9f7035a.jpg",
+    "imageSrc": "https://i.pinimg.com/736x/ea/66/9d/ea669d5b8049567b243ad0c9637a2135.jpg",
     "imageAlt": "Trendy high-low hem kurti in blue",
     "description": "Modern high-low kurti with printed pattern and comfortable fit."
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Denim Casual Kurti",
     "price": "₹999",
-    "imageSrc": "https://i.pinimg.com/736x/d3/9e/1a/d39e1ae81668174ec4b72d95b701b3ce.jpg",
+    "imageSrc": "https://i.pinimg.com/736x/cf/aa/23/cfaa2370e6a477d227dbea0ad2d0003d.jpg",
     "imageAlt": "Denim kurti with button-down style",
     "description": "Casual denim kurti for everyday stylish comfort."
   },
@@ -75,88 +75,9 @@
     "id": 10,
     "name": "Kalamkari Print Kurti",
     "price": "₹1,099",
-    "imageSrc": "https://i.pinimg.com/736x/0e/1b/a8/0e1ba8d39281af3b056bc65b4d8b7ec5.jpg",
+    "imageSrc": "https://i.pinimg.com/736x/fa/65/b2/fa65b252209fa6396c6d7e638f4c772e.jpg",
     "imageAlt": "Kalamkari printed cotton kurti",
     "description": "Traditional kalamkari print kurti inspired by Indian art."
   },
-  {
-    "id": 11,
-    "name": "Bandhani Cotton Kurti",
-    "price": "₹1,199",
-    "imageSrc": "https://i.pinimg.com/736x/54/67/92/546792abff92b2fa20d4cf7eae7a6b79.jpg",
-    "imageAlt": "Bandhani print cotton kurti in red",
-    "description": "Classic bandhani design cotton kurti for festive charm."
-  },
-  {
-    "id": 12,
-    "name": "A-Line Printed Kurti",
-    "price": "₹849",
-    "imageSrc": "https://i.pinimg.com/736x/8d/3d/70/8d3d707033b0157c9e31f5a08c159e4b.jpg",
-    "imageAlt": "A-line printed cotton kurti",
-    "description": "Trendy A-line kurti with all-over floral prints."
-  },
-  {
-    "id": 13,
-    "name": "Slit Front Kurti",
-    "price": "₹999",
-    "imageSrc": "https://i.pinimg.com/736x/4a/53/90/4a5390d48b98e782c218e0ee3898c7eb.jpg",
-    "imageAlt": "Slit front designer kurti in pastel tones",
-    "description": "Designer slit front kurti with embroidery details."
-  },
-  {
-    "id": 14,
-    "name": "Angrakha Style Kurti",
-    "price": "₹1,249",
-    "imageSrc": "https://i.pinimg.com/736x/86/17/d5/8617d5eac61d88a8cf2c219007e87c89.jpg",
-    "imageAlt": "Angrakha wrap-style kurti",
-    "description": "Ethnic angrakha wrap-style kurti for a royal Indian touch."
-  },
-  {
-    "id": 15,
-    "name": "Printed Cotton Kurti with Tassels",
-    "price": "₹899",
-    "imageSrc": "https://i.pinimg.com/736x/23/32/8f/23328f4a29e64607f1cb3a91244b0cb3.jpg",
-    "imageAlt": "Printed cotton kurti with tassels",
-    "description": "Fun tassel detail printed kurti with contrast neck design."
-  },
-  {
-    "id": 16,
-    "name": "Georgette Partywear Kurti",
-    "price": "₹1,699",
-    "imageSrc": "https://i.pinimg.com/736x/cc/33/8d/cc338d3d9e7ed56eabddfce8e75d20b8.jpg",
-    "imageAlt": "Georgette partywear kurti in lavender shade",
-    "description": "Stylish georgette kurti with layered pattern for parties."
-  },
-  {
-    "id": 17,
-    "name": "Printed Cotton Kurti Set",
-    "price": "₹1,099",
-    "imageSrc": "https://i.pinimg.com/736x/8c/64/89/8c648951aa7cb14b2da54c29f6bb3774.jpg",
-    "imageAlt": "Printed cotton kurti set with dupatta",
-    "description": "Matching kurti and dupatta set in cotton fabric."
-  },
-  {
-    "id": 18,
-    "name": "Mirror Work Kurti",
-    "price": "₹1,499",
-    "imageSrc": "https://i.pinimg.com/736x/20/54/6a/20546a81a04b9fd5b9ef748d048cfe90.jpg",
-    "imageAlt": "Mirror work kurti in bright pink",
-    "description": "Beautiful mirror work kurti perfect for festive occasions."
-  },
-  {
-    "id": 19,
-    "name": "Cotton Ikat Kurti",
-    "price": "₹1,099",
-    "imageSrc": "https://i.pinimg.com/736x/1e/0e/09/1e0e09c92a07f8f6dbcc3c8df5e1a050.jpg",
-    "imageAlt": "Ikat printed cotton kurti",
-    "description": "Comfortable Ikat patterned cotton kurti for daily wear."
-  },
-  {
-    "id": 20,
-    "name": "Layered Cotton Kurti",
-    "price": "₹1,299",
-    "imageSrc": "https://i.pinimg.com/736x/bd/32/0d/bd320d34bda6a61b62fa772f8ac7275b.jpg",
-    "imageAlt": "Layered cotton kurti with printed border",
-    "description": "Layered pattern cotton kurti with border prints and soft fabric."
-  }
+
 ]
